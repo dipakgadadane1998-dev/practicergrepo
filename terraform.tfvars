@@ -9,4 +9,9 @@ name     = "myrgpract2"
   location = "CentralIndia"
 
 }
+  rg3 = {
+name     = "myrgpract3"
+  location = "CentralIndia"
+
+}
 }
